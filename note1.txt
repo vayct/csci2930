@@ -1,0 +1,21 @@
+Unix: Bell Labs(Late 60, Early 70)
+MULTICS: MIT< GE< Bell Labs
+
+Unix sprang from the ashes of MULTICS
+Dennis Ritchie
+Ken Thompson	1972
+
+Linux ~~1991	Linus Torvalds
+
+1. Data processing as "stream processing"
+2. Plain text is your friend
+3. sed: modify data stream					<---"mapper"
+   grep: keep/remove some data stream				<---"filter"
+   wc: count lines in data stream/squash all lines into one	<---"reducer"
+
+
+Hadoop/MAP Reduce
+	philosophy for analyzing big data
+
+
+

@@ -1,0 +1,53 @@
+<HTML><HEAD>
+
+<META http-equiv=Content-Type content=text/html; charset=UTF-8 /> 
+
+<TITLE>Irish Morphology </TITLE>
+</HEAD>
+
+<BODY bgcolor="#ffffff">
+<p>
+
+<TABLE border="3" cellpadding = "5" align = "center" width = "580">
+
+<TR>
+
+<TD align="center"> <P >
+<H3><font color = "#339999" face = "Verdana, Arial, Helvetica, sans-serif">Irish NLP Tools</font></H3></p>
+
+</TD></TR>
+<TR><TD>
+
+<font color = "#339999" face = "Verdana, Arial, Helvetica, sans-serif"><h4 align = "center">Part-of-Speech Results</h4></FONT><p align="center"><font face = "Verdana, Arial, Helvetica, sans-serif" size = "1">Thu Mar 21 15:10:46 GMT 2019</font></p>
+
+
+<HR SIZE=2>
+<P ><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">
+<B>Token: </B>
+Rith<BR><BR><B>Lemma: </B>rith<BR><BR><B>Part-of-Speech </B> for <I>Rith</I><TABLE border="0">
+
+<TR><TD><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2"></font></TD></TR>
+<TR><TD><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">rith+Verb+VTI+PastInd+Len</font></TD></TR></TABLE>
+
+<HR SIZE=2>
+<P ><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">
+<B>Token: </B>siad<BR><BR><B>Lemma: </B>siad<BR><BR><B>Part-of-Speech </B> for <I>siad</I><TABLE border="0">
+
+<TR><TD><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">siad+Pron+Pers+3P+Pl+Sbj</font></TD></TR></TABLE>
+
+<HR SIZE=2>
+<P ><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">
+<B>Token: </B>an<BR><BR><B>Lemma: </B>an<BR><BR><B>Part-of-Speech </B> for <I>an</I><TABLE border="0">
+
+<TR><TD><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">an+Art+Sg+Def</font></TD></TR></TABLE>
+
+<HR SIZE=2>
+<P ><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">
+<B>Token: </B>rás<BR><BR><B>Lemma: </B>rás<BR><BR><B>Part-of-Speech </B> for <I>rás</I><TABLE border="0">
+
+<TR><TD><font face = "Verdana, Arial, Helvetica, sans-serif" size = "2">rás+Noun+Masc+Com+Sg+DefArt+<<<</font></TD></TR></TABLE>
+<HR SIZE=2>
+<BR>
+
+<p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="irish.utf8.htm">Ar Ais | Back</a></font></p></TD></TR></TABLE>
+</BODY></HTML>
